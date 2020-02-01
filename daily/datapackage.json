@@ -1,0 +1,22 @@
+{
+  "name": "Daily Price",
+  "title": "Daily Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+  "resources": [
+    {
+      "name": "Daily_Gas_Price",
+      "path": "Daily/Daily_Gas_Price.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Date",
+            "type": "Date"
+          },
+          {
+            "name": "Price",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

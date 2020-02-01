@@ -1,0 +1,22 @@
+{
+  "name": "Weekly Price",
+  "title": "Weekly Henry Hub Natural Gas Spot Price (Dollars per Million Btu)",
+  "resources": [
+    {
+      "name": "Weekly_Gas_Price",
+      "path": "Weekly/Weekly_Gas_Price.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Date",
+            "type": "Date"
+          },
+          {
+            "name": "Price",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
