@@ -13,5 +13,7 @@ Each granularity has its own visualization. Once you are in the project root dir
 python -m SimpleHTTPServer 8080
 
 Daily Gas Price d3 graph can be visualized at http://127.0.0.1:8080/daily/line_graph.html
+
 Weekly Gas Price d3 graph can be visualized at http://127.0.0.1:8080/weekly/line_graph.html
+
 Monthly Gas Price d3 graph can be visualized at http://127.0.0.1:8080/monthly/line_graph.html
